@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username:  Zhejing-Chin
 
 # Build settings
-theme: minima
+theme: cayman
 #theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
