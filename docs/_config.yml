@@ -22,7 +22,7 @@ title: Jing
 email: zhejingchin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog / occasionally showcasing my past projects.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 domain: zjchin.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://zjchin.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
