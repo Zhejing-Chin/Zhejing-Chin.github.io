@@ -4,4 +4,6 @@
 
 layout: home
 author_profile: true
+spotifyId: "3MZsBdqDrRTJihTHQrO6Dq"
 ---
+{% include spotify-Joji.html id=page.spotifyId %}
