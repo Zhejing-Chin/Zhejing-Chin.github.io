@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -92,6 +92,9 @@ footer:
     - label: "Email"
       icon: "fa fa-fw fa-at"
       url: "mailto:zhejingchin@gmail.com"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
