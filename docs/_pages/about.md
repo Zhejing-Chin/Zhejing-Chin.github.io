@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: About
 permalink: /about/
 spotifyId: "3MZsBdqDrRTJihTHQrO6Dq"
