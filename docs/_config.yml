@@ -86,7 +86,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/aaaaahhjing"
     - label: "Email"
-      icon: "fa-light fa-fw fa-at"
+      icon: "fa-light fa-at"
       url: "mailto:zhejingchin@gmail.com"
 
 defaults:
