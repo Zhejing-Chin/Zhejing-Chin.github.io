@@ -6,4 +6,4 @@ layout: home
 author_profile: true
 spotifyId: "27rZYxE4l21wTaovX4WTnI"
 ---
-{% include spotify-RexOrangeCounty/sofarsogood.html id=page.spotifyId %}{.align-center}
+{% include spotify-RexOrangeCounty/sofarsogood.html id=page.spotifyId %}{: .align-center}
