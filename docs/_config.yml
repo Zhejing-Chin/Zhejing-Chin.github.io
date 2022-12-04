@@ -101,6 +101,8 @@ footer:
 atom_feed:
   hide: true
 
+teaser: /assets/images/teasers/default.jpeg
+
 defaults:
   # _posts
   - scope:
@@ -111,7 +113,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      # share: true
       related: true
   # _pages
   - scope:
