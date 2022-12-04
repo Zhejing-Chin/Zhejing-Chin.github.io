@@ -5,5 +5,9 @@
 layout: home
 author_profile: true
 spotifyId: "27rZYxE4l21wTaovX4WTnI"
+header:
+  video:
+    id: NZc__Hhi4L8
+    provider: youtube
 ---
 {% include spotify-RexOrangeCounty/sofarsogood.html id=page.spotifyId %}{: .align-center}
