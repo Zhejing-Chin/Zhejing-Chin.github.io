@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 spotifyId: "3MZsBdqDrRTJihTHQrO6Dq"
 ---
-{% include spotify-Joji.html id=page.spotifyId %}
+<!-- {% include spotify-Joji.html id=page.spotifyId %} -->
+{% include video id="NZc__Hhi4L8" provider="youtube" %}
+
 
 This website is for me to playaround with Jekyll and GitHub pages. 
 
