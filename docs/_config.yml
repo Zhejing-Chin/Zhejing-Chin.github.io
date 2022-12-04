@@ -78,6 +78,11 @@ author:
       icon: "fa fa-fw fa-at"
       url: "mailto:zhejingchin@gmail.com"
 
+header:
+  video:
+    id: NZc__Hhi4L8
+    provider: youtube
+
 footer:
   links:
     # - label: "Twitter"
