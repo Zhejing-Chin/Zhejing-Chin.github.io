@@ -12,4 +12,18 @@ spotifyId: "27rZYxE4l21wTaovX4WTnI"
 ---
 {% include video id="NZc__Hhi4L8" provider="youtube" %}
 
+<p>
+<audio id="loop-limited" controls="controls" autoplay style="width: 6em;height:20px;">
+<source src="http://www.chakdhoom.com/wp-content/uploads/2017/01/chak-1-AudioTrimmer.com_.mp3" type="audio/ogg" />
+<source src="http://www.chakdhoom.com/wp-content/uploads/2017/01/chak-1-AudioTrimmer.com_.mp3" type="audio/mpeg" />
+</audio><br />
+<script>
+var loopLimit = 5;
+var loopCounter = 0;
+document.getElementById('loop-limited').addEventListener('ended', function(){
+    if (loopCounter < loopLimit){this.currentTime = 0;this.play();loopCounter++;}
+}, false);
+</script>
+</p>
+
 <!-- {% include spotify-RexOrangeCounty/sofarsogood.html id=page.spotifyId %}{: .align-center} -->
