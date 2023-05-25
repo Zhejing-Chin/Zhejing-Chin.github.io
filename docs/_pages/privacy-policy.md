@@ -5,7 +5,7 @@ permalink: /policy/
 author_profile: true
 ---
 
-<h1>Privacy Policy for jing</h1>
+<!-- <h1>Privacy Policy for jing</h1> -->
 
 <p>At jing, accessible from https://zhejing-chin.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by jing and how we use it.</p>
 
