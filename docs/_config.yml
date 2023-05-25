@@ -92,6 +92,9 @@ footer:
     - label: "Email"
       icon: "fa fa-fw fa-at"
       url: "mailto:zhejingchin@gmail.com"
+    - label: "Privacy Policy"
+      # icon: "fa fa-fw fa-at"
+      url: "/policy/"
 
 atom_feed:
   hide: true
