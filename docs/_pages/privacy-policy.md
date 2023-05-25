@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Privacy Policy
 permalink: /policy/
 author_profile: true
