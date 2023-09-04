@@ -11,14 +11,23 @@ theme_settings :
   profile :
     image : assets/img/me.jpg
     username : Zhejing-Chin
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair!
     experience :
+      - start : 2023-03-01
+        end : 2023-06-01
+        experience : Upwork / Fiverr, Freelance Data Engineer
       - start : 2021-03-21
         end : 2022-07-23
         experience : Axrail, Data Engineer
     skills : 
       - skill : Python
         value : 75  # Percent value
+      - skill : SQL
+        value : 85
+      - skill : AWS Lambda
+        value : 60
+      - skill : PySpark
+        value : 70
         
   # Icons
   icons :
