@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/me.jpg
+    image : assets/img/me-hague.jpg
     username : Zhejing-Chin
     description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair!
     experience :
