@@ -261,7 +261,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
-  github-pages
+  github-pages (~> 228)
   grape-theme!
   jekyll-paginate
   rake (~> 12.0)

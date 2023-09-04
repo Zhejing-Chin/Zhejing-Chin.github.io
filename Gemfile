@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'github-pages'
+gem "github-pages", "~> 228", group: :jekyll_plugins
 gem "jekyll-paginate"
 gem "webrick", "~> 1.8"
