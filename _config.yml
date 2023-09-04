@@ -28,6 +28,8 @@ theme_settings :
         value : 60
       - skill : PySpark
         value : 70
+      - skill : Machine Learning
+        value : 60
         
   # Icons
   icons :

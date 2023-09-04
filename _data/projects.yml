@@ -2,30 +2,30 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/Zhejing-Chin/OnePlanet # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
-    contents :
-        - title : 1. 블로그 첫 화면 구성
-          image : home.png
-          description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. 태그 페이지
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. 남은 개발 과제
-          image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+    image : "wesad-dataset.png" # path: assets/project/
+    date : 2023.08.28
+    title : WESAD Data Processing
+    summary : Process wearable data of WESAD
+    description : This is a small project to process signal data from WESAD.  
+    # contents :
+    #     - title : 1. 블로그 첫 화면 구성
+    #       image : home.png
+    #       description : <li>Responsive Layout</li>
+    #         <li>User Profile</li> 
+    #         <li>Tags</li> 
+    #         <li>Projects</li> 
+    #         <li>Pagination</li>
+    #     - title : 2. 태그 페이지
+    #       image : tags.png
+    #       description : <li>Responsive Layout</li> 
+    #         <li>Tags</li> 
+    #     - title : 3. 남은 개발 과제
+    #       image :
+    #       description : <li>project 부분 디자인 변경</li>
+    #         <li>favicon.ico, search 기능</li>
+    #         <li>OG Tag 추가</li>
+    #         <li>profile 이미지 효과</li>
+    #         <li>gem 배포</li> 
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
