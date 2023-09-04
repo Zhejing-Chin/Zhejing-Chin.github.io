@@ -9,21 +9,21 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/me.png
+    image : assets/img/me.jpg
     username : Zhejing-Chin
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2021-03-21
+        end : 2022-07-23
+        experience : Axrail, Data Engineer
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Python
+        value : 75  # Percent value
         
   # Icons
   icons :
     email:  zhejingchin@gmail.com # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
+    linkedin:  https://www.linkedin.com/in/zhe-jing-chin/ # Full URL 
     github: Zhejing-Chin
     gitlab: 
     bitbucket: 
