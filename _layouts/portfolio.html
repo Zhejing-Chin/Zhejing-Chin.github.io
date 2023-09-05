@@ -36,21 +36,7 @@ layout: page
         {% endfor %}
       </ul>
     </article>
-    <article class="skills col-12 col-md-6">
-      <p class="title">SKILLS</p>
-      <ul class="skill-list">
-        {% for _ in profile.skills %}
-        <li class="skill">
-          <p class="name">{{ _.skill }}</p>
-          <div class="progress">
-            <div class="progress-bar" style="width: {{ _.value }}%">
-              <div class="progress-value">{{ _.value }}%</div>
-            </div>
-          </div>
-        </li>
-        {% endfor %}
-      </ul>
-    </article>
+    
     <article class="cert col-12 col-md-6">
       <p class="title">CERTIFICATES</p>
       <ul class="cert-list">
@@ -66,6 +52,23 @@ layout: page
         {% endfor %}
       </ul>
     </article>
+
+    <article class="skills col-12 col-md-6">
+      <p class="title">SKILLS</p>
+      <ul class="skill-list">
+        {% for _ in profile.skills %}
+        <li class="skill">
+          <p class="name">{{ _.skill }}</p>
+          <div class="progress">
+            <div class="progress-bar" style="width: {{ _.value }}%">
+              <div class="progress-value">{{ _.value }}%</div>
+            </div>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </article>
+    
   </section>
 
   {% include projects.html %}
