@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/me-hague-cropped.jpg
     username : Vigee Chin
-    description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair! \n✈️🍿🎸🏐✨
+    description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair!   ✈️🍿🎸🏐✨
     experience :
       - start : 2023-03-01
         end : 2023-06-01
