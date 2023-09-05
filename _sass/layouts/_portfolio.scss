@@ -52,9 +52,20 @@
     }
   }
   #career {
+    display: flex; // Use flexbox to create a two-column layout
     @extend %page-padding;
     margin-bottom: 55px;
     margin-top: 55px;
+
+    .left-column {
+      flex: 1; // Allow the left column to grow
+      margin-right: 20px; // Add some space between the columns
+    }
+
+    .right-column {
+      flex: 2; // Allow the right column to grow twice as wide as the left column
+    }
+
     .title {
       margin-top: 15px;
       color: $theme-dark;
@@ -120,6 +131,7 @@
         margin-left: 3%;
         border-left: 5px solid $theme-color;
         list-style-type: none;
+        padding-left: 0;
         li {
           animation-name: fadein;
           animation-duration: 1s;
