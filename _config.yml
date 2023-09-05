@@ -19,16 +19,38 @@ theme_settings :
       - start : 2021-03-21
         end : 2022-07-23
         experience : Axrail, Data Engineer
+      - start : 2020-04-01
+        end : 2020-06-01
+        experience : Texas Instruments, IT intern
+      - start : 2019-10-01
+        end : 2020-02-28
+        experience : Multimedia Universty, Research Assistant
     skills : 
       - skill : Python
         value : 75  # Percent value
       - skill : SQL
         value : 85
-      - skill : AWS Lambda
-        value : 60
       - skill : PySpark
         value : 70
       - skill : Machine Learning
+        value : 60
+      - skill : AWS Lambda + SQS
+        value : 70
+      - skill : AWS SES
+        value : 70
+      - skill : AWS Glue
+        value : 75
+      - skill : AWS Athena
+        value : 70
+      - skill : Amazon Redshift
+        value : 60
+      - skill : AWS DMS
+        value : 60
+      - skill : AWS CodeCommit + CodePipeline
+        value : 60
+      - skill : AWS Quicksight / Tableau
+        value : 80
+      - skill : PowerBI
         value : 60
         
   # Icons
