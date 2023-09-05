@@ -35,5 +35,7 @@
     date : 2023.04.01
     title : Proposed layer with Keras Tensorflow
     summary : To implement and compare a traditional CNN and a proposed layer with tensorflow keras.
-    description :  A proposed layer that enhanced from traditional CNN is implemented using Keras Tensorflow. The main difference is in weight kernel and weight matrix. CNN has a kernel that is slided over the whole input. 
-Whereas in the proposed network you have a weight matrix from which each time a locally position oriented kernel is used for calculating the weighted sum operation.
+    description :  A proposed layer that enhanced from traditional CNN is implemented using Keras Tensorflow. 
+    contents: 
+        - title: Difference between proposed layer and traditional CNN
+          description: CNN has a kernel that is slided over the whole input. Whereas in the proposed network you have a weight matrix from which each time a locally position oriented kernel is used for calculating the weighted sum operation.
