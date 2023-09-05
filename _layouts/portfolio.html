@@ -36,6 +36,21 @@ layout: page
         {% endfor %}
       </ul>
     </article>
+    <article class="cert col-12 col-md-6">
+      <p class="title">CERTIFICATES</p>
+      <ul class="cert-list">
+        {% for cert in  profile.certificates %}
+        <li class="meta">
+          {% if cert.end %}
+          <p class="date">{{ cert.start }} ~ {{ cert.end }}</p>
+          {% else %}
+          <p class="date">{{ cert.start }} ~ No Expiry</p>
+          {% endif %}
+          <p class="description">{{ cert.title }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+    </article>
     <article class="skills col-12 col-md-6">
       <p class="title">SKILLS</p>
       <ul class="skill-list">

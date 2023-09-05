@@ -25,6 +25,10 @@ theme_settings :
       - start : 2019-10-01
         end : 2020-02-28
         experience : Multimedia Universty, Research Assistant
+    certificates: 
+      - start : May 22, 2021
+        end : May 22, 2024
+        title : AWS Certified Machine Learning - Specialty
     skills : 
       - skill : Python
         value : 75  # Percent value
