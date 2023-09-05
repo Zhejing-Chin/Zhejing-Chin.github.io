@@ -30,9 +30,10 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :  
+    url :  https://github.com/Zhejing-Chin/CS_RTAI_Assignment2/tree/main # Full URL
+    image : "csrtai.png" # path: assets/project/
+    date : 2023.04.01
+    title : Proposed layer with Keras Tensorflow
+    summary : To implement and compare a traditional CNN and a proposed layer with tensorflow keras.
+    description :  A proposed layer that enhanced from traditional CNN is implemented using Keras Tensorflow. The main difference is in weight kernel and weight matrix. CNN has a kernel that is slided over the whole input. 
+Whereas in the proposed network you have a weight matrix from which each time a locally position oriented kernel is used for calculating the weighted sum operation.
