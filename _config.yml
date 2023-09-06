@@ -11,7 +11,8 @@ theme_settings :
   profile :
     image : assets/img/me-hague-cropped.jpg
     username : Vigee Chin
-    description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair! Currently residing in Ireland, Galway. ✈️🍿🎸🏐✨🇮🇪
+    description : Hi, I am Vigee. A data wizard with a dash of travel, movie, guitar, and volleyball flair! ✈️🍿🎸🏐✨
+    location : Galway, Ireland 🇮🇪
     experience :
       - start : 2023-03-01
         end : 2023-06-01
