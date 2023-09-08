@@ -29,12 +29,15 @@ theme_settings :
     certificates: 
       - start : 2021-05-22
         end : 2024-05-22
+        url: AWS%20Certs/AWS%20Certified%20Machine%20Learning%20-%20Specialty%20certificate.pdf
         title : AWS Certified Machine Learning - Specialty
       - start : 2021-11-27
         end : 2024-11-27
+        url: AWS%20Certs/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf
         title : AWS Certified Solutions Architect - Associate
       - start : 2021-12-21
         end : 2024-12-21
+        url: AWS%20Certs/HCIP%20-%20ZJChin.pdf
         title : HUAWEI Certified AI EI Developer
     skills : 
       - skill : Python

@@ -52,7 +52,9 @@ layout: page
             {% else %}
             <p class="date">{{ cert.start }} ~ No Expiry</p>
             {% endif %}
-            <p class="description">{{ cert.title }}</p>
+            <a href="https://github.com/Zhejing-Chin/aws/blob/main/{{ cert.url }}">
+              <p class="description">{{ cert.title }}</p>
+            </a>
           </li>
           {% endfor %}
         </ul>
