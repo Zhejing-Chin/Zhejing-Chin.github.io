@@ -39,3 +39,20 @@
     contents: 
         - title: Difference between proposed layer and traditional CNN
           description: CNN has a kernel that is slided over the whole input. Whereas in the proposed network you have a weight matrix from which each time a locally position oriented kernel is used for calculating the weighted sum operation.
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/Zhejing-Chin/Zhejing-Chin.github.io/tree/grape-theme # Full URL
+    image : "portfolio2.png" # path: assets/project/
+    date : 2023.09.04 - Developing
+    title : Github.io Portfolio
+    summary : Implement a Github portfolio adapting from Nayeong Kim template
+    description :  The website is built based on the template of Nayeong Kim.
+    contents: 
+        - title: 1. Additional features / contents
+          description: <li> Location </li>
+            <li> Certificates </li>
+        - title: 2. Changes to template
+          description: <li> Theme colour </li>
+            <li> Layout of portfolio </li>
