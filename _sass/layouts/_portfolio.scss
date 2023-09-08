@@ -157,8 +157,8 @@
             font-size: 1rem;
           }
           .description a:hover {
-            background-color: $theme-dark;
-            color: #fff;
+            background-color: #fff;
+            color: $theme-dark;
           }
         }
         li.meta::before {
